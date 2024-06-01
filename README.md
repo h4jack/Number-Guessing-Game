@@ -46,9 +46,9 @@ Similar to Robot Guesses, but the computer selects the difficulty level automati
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/h4jack/calculator/blob/main/LICENSE/)
+This project is licensed under the [MIT License](https://github.com/h4jack/Number-Guessing-Game/blob/main/LICENSE/)
 
 
 ## Feedback
 
-If you have any feedback or suggestions, please feel free to [create an issue](https://github.com/h4jack/number-guessing-game/issues) or [contact us](https://github.com/h4jack).
+If you have any feedback or suggestions, please feel free to [create an issue](https://github.com/h4jack/Number-Guessing-Game/issues) or [contact us](https://github.com/h4jack).
