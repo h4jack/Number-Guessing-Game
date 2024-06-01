@@ -2,7 +2,7 @@
 This Python program is a number guessing game where the user can play against the computer or let the computer guess the user's number. The game offers different difficulty levels and modes of play.
 ## Demo
 
-Insert gif or link to demo
+No Demo Available for this.
 
 
 ## Installation
