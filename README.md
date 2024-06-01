@@ -9,7 +9,7 @@ No Demo Available for this.
 To run the game, follow these steps:
 
 #### Clone the repo and use and analyze the code:
-```bash
+```git
 git clone https://github.com/h4jack/Number-Guessing-Game.git
 ```
 #### Navigate to the project directory:
@@ -17,7 +17,7 @@ git clone https://github.com/h4jack/Number-Guessing-Game.git
 cd Number-Guessing-Game
 ```
 #### Run the game:
-```bash
+```py
 py number-guessing-game.py
 ```
 ## Features
